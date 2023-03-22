@@ -1,4 +1,4 @@
-<h1>To do list 📓</h1>
+<h1>📓 To do list</h1>
 
 <br>
 
