@@ -4,7 +4,7 @@
 
 <div align="center">
     <img src="assets\to-do-list-mobile-gravacao.gif" width="80%" />
-    <h3 align="center">O projeto consiste em uma aplicação de controle de tarefas no estilo to-do list.</h3>
+    <h3 align="center">O projeto consiste em uma aplicação de controle de tarefas no estilo to do list.</h3>
 </div>
 
 <br>
