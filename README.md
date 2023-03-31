@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="assets\to-do-list-mobile-gravacao.gif" width="80%" />
+    <img src="https://raw.githubusercontent.com/JoaoPedroVicentin/to-do-list-mobile/main/assets/to-do-list-mobile-gravacao.gif" width="80%" />
     <h3 align="center">O projeto consiste em uma aplicação de controle de tarefas no estilo to do list.</h3>
 </div>
 
